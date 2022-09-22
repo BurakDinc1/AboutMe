@@ -27,6 +27,8 @@ Connect With Me
 
 </p>
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=BurakDinc1&show_icons=true&theme=radical) 
+
 * Swift
 * SwiftUI
 * Java
