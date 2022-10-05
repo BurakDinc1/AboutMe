@@ -31,7 +31,8 @@ Connect With Me
  
 </h2>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=BurakDinc1&show_icons=true&theme=radical) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=BurakDinc1&show_icons=true&theme=radical)
+![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakDinc1&show_icons=true&theme=radical)
 
 * Swift
 * SwiftUI
