@@ -32,7 +32,7 @@ Connect With Me
 </h2>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BurakDinc1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakDinc1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakDinc1&layout=compact&theme=gradient)
 
 * Swift
 * SwiftUI
