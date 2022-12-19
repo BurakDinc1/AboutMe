@@ -53,6 +53,7 @@ Connect With Me
 * Combine
 * Alamofire
 * KingFisher
+* iOS Widget Kit
 * Firebase
 * Scrum
 * Retrofit
