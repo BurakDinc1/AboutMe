@@ -21,7 +21,7 @@ Connect With Me
 
 <p align="left"
 
-<a href="https://www.linkedin.com/in/brkdnc" target="blank"><img align="center" src="https://www.martek.com.tr/images/icons/linkedin.png" alt="stevanato-andrea" height="35" width="35" /></a> <a href="https://twitter.com/brkdnc1" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/07/Twitter-Logo-Square.png" alt="andrea_steva" height="40" width="40" /></a> <a href="https://www.instagram.com/brkdnc.1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="@andr3a88" height="38" width="38" /></a>
+<a href="https://www.linkedin.com/in/brkdnc" target="blank"><img align="center" src="https://www.martek.com.tr/images/icons/linkedin.png" alt="stevanato-andrea" height="35" width="35" /></a> <a href="https://www.instagram.com/brkdnc.1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="@andr3a88" height="38" width="38" /></a>
 
 </p>
 
